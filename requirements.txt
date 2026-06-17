@@ -1,0 +1,10 @@
+streamlit
+PyMuPDF
+langchain
+langchain-community
+langchain-huggingface
+qdrant-client
+langchain-qdrant
+sentence-transformers
+openai
+python-dotenv
